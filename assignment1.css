@@ -1,0 +1,96 @@
+.main-div{
+    max-width: 1000px;
+    height: 1440px;
+    border: 2px solid;
+    margin: auto;
+    border-radius: 13px;
+   
+}
+
+.header{
+    background-color: rgb(47, 86, 122);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.listing{
+    background-color: rgba(12, 7, 7, 0.801);
+    color: white;
+}
+
+.listing li{
+    list-style: none;
+}
+
+.item-1{
+    display: inline-block;
+    padding-right: 170px;
+}
+
+.item-2{
+    display: inline-block;
+    padding-left:20px;
+}
+
+.left-div{
+    /* border: 1px solid; */
+    width: 50%;
+    height: 1120px;
+    display: inline-block;
+}
+
+
+.skills{
+    /* border: 1px solid; */
+    padding-left: 40px;
+    font-style: oblique;
+
+}
+
+.hobbies{
+    /* border: 1px solid; */
+    font-style: oblique;
+    padding-left: 40px;
+}
+
+.interests{
+    /* border: 1px solid; */
+    padding-left: 40px;
+}
+
+.interests p{
+    /* border: 4px solid; */
+    display: inline-block;
+    padding: 10px;
+    border-radius: 7px;
+    border-style: groove;
+}
+
+.right-div{
+    /* border: 1px solid red; */
+    height: 1120px;
+    float: right;
+    width: 49.5%;
+    
+}
+
+.education{
+    /* border: 1px solid; */
+    padding-left: 40px;
+}
+
+.projects-div{
+    /* border: 1px solid; */
+    padding-left: 40px;
+}
+
+.languages-div{
+    /* border: 1px solid; */
+    padding-left: 40px;
+}
+
